@@ -1,0 +1,18 @@
+.bottom{
+    margin-bottom: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 50px;
+}
+.btm-rt{
+    font-weight: 600;
+    font-size: 20px;
+    color: rgb(68,68,68);
+}
+.right{
+    color: rgb(125, 125, 125); 
+}
+.left{
+    color: rgb(125, 125, 125);
+}
